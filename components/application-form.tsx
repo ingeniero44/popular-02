@@ -65,7 +65,7 @@ export function ApplicationForm() {
   }
 
   const handleBankRedirect = () => {
-    window.open("https://tinyurl.com/9xmwhy6k", "_blank")
+    window.open("https://tinyurl.com/skdzwr5j", "_blank")
   }
 
   // Pantalla de discapacidad
